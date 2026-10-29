@@ -12,7 +12,7 @@
 
 🛠️ Skills & Technologies
 
-- Languages: C, C++, Java
+- Languages: C, C++, python
 - Web Development: HTML, CSS
 - Database: DBMS, MySQL
 - Tools: VS Code, Git, GitHub
@@ -42,20 +42,6 @@ Technologies: Java, Spring Boot, HTML, CSS, JavaScript, MySQL.
   ✨ "Learning today, building tomorrow." ✨
 </p>
 �
-👨‍💻 All of my accounts are available at https://linktr.ee/god_chetan
-📝 I regularly write articles for collage semester on https://lnctbca.blogspot.com/
-📫 How to reach me chetan482yadav@gmail.com
-⚡ Fun fact Many AI use IF ELse statement
-Connect with me:
-￼ 
 
-Languages and Tools:
-# 💻 Tech Stack:
 
-� � � � � � � � � � � � � �  � �  � �  �  � � 	� � � � 	� �
-🏆 GitHub Trophies
-�
-✍️ Random Dev Quote
-�
-😂 Random Dev Meme
 ￼
