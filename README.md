@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kimmy Kumari</h1><h3 align="center">💻 MCA Student | Aspiring Software Developer 🚀</h3><p align="center">
   Passionate about coding, learning new technologies, and building projects.
-</p>---
+</p>
 
 👩‍💻 About Me
 
@@ -9,6 +9,7 @@
 - 💡 Interested in solving problems through code.
 - 🚀 Working towards becoming a skilled Software Developer.
 - 💻 I enjoy learning new technologies and building projects.
+- 
 
 🛠️ Skills & Technologies
 
@@ -16,6 +17,7 @@
 - Web Development: HTML, CSS
 - Database: DBMS, MySQL
 - Tools: VS Code, Git, GitHub
+- 
 
 📌 Featured Project
 
@@ -24,6 +26,7 @@ Online Examination System
 A web-based application designed to manage online examinations, student registration, exams, and results.
 
 Technologies: Java, Spring Boot, HTML, CSS, JavaScript, MySQL.
+
 
 🎯 My Goals
 
