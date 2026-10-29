@@ -1,4 +1,4 @@
-![logo](https://github.com/kimmy112393/kimmy112393/blob/main/ai.webp)
+![logo](https://github.com/kimmy112393/kimmy112393/blob/main/ai-1.webp)
 <h1 align="center">Hi 👋, I'm Kimmy Kumari</h1><h3 align="center">💻 MCA Student | Aspiring Software Developer 🚀</h3><p align="center">
   Passionate about coding, learning new technologies, and building projects.
 </p>
