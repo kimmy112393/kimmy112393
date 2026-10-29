@@ -44,7 +44,3 @@ Technologies: Java, Spring Boot, HTML, CSS, JavaScript, MySQL.
 <p align="center">
   ✨ "Learning today, building tomorrow." ✨
 </p>
-�
-
-
-￼
